@@ -1,2 +1,3 @@
-# financial-news_sentiment-analysis
-Sentiment Analysis in Financial News
+# Sentiment Analysis in Financial News
+
+![alt text](blob/main//financial-news_sentiment/Slide1.PNG)
